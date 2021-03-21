@@ -1,0 +1,38 @@
+
+.home-content {
+    padding-top: 179px;
+    padding-left: 120px;
+    padding-bottom: 273px;
+}
+
+.text-title{
+    position: absolute;
+    width: 580px;
+    height: 128px;
+    left: 120px;
+    top: 179px;
+
+    color: #062847;
+    font-size: 48px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+}
+
+
+.text-subtitle{
+    position: absolute;
+    width: 612px;
+    height: 216px;
+    left: 120px;
+    top: 331px;
+    font-size: 20px;
+    line-height: 36px;
+    color: #5A6774;
+
+}
+
+.text-subtitle-mail{
+    color: #1890FF;
+}
