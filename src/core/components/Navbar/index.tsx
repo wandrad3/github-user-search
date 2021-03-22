@@ -5,7 +5,7 @@ import './styles.scss'
 const Navbar = () => {
     return (
         <nav className="main-nav">
-            <div className="nav-logo-text">Bootcamp DevSuperior</div>
+            <div className="nav-logo-text"><a href="/">Bootcamp DevSuperior</a></div>
         </nav>
     );
 }
